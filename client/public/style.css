@@ -17,7 +17,7 @@ html body {
   justify-content: space-between;
 }
 html body header {
-  min-height: 550px;
+  /* min-height: 550px; */
   height: auto;
   font-family: "Rock Salt", cursive;
 }

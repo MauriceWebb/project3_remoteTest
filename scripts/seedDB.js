@@ -3,19 +3,19 @@ const db = require("../models");
 
 // keys...
 // {
-//  name,
-//  family,
-//  otherNames,
-//  unsubstantiatedClaims,
-//  recommendedIntake,
-//  sideEffects,
-//  botanicalNames,
-//  generalDescription,
-//  medicallyValidUses,
-//  dosingFormat,
-//  demonstratedUses,
-//  suggestedDosage,
-//  interactions;
+//  name, 1
+//  family, 2
+//  otherNames, 3
+//  unsubstantiatedClaims,  8
+//  recommendedIntake,  11
+//  sideEffects,  9
+//  botanicalNames, 6
+//  generalDescription, 5
+//  medicallyValidUses, 7
+//  dosingFormat, 12
+//  demonstratedUses, 10
+//  suggestedDosage,  14
+//  interactions; 13
 // }
 
 // This file empties the Herbs collection and inserts the Herbs below
